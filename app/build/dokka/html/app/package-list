@@ -1,0 +1,10 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:myKotlinApp////PointingToDeclaration/app/myKotlinApp/index.html
+$dokka.location:myKotlinApp/App///PointingToDeclaration/app/myKotlinApp/-app/index.html
+$dokka.location:myKotlinApp/App/App/#/PointingToDeclaration/app/myKotlinApp/-app/-app.html
+$dokka.location:myKotlinApp/App/getGreeting/#/PointingToDeclaration/app/myKotlinApp/-app/get-greeting.html
+$dokka.location:myKotlinApp/AppKt///PointingToDeclaration/app/myKotlinApp/-app-kt/index.html
+$dokka.location:myKotlinApp/AppKt/main/#/PointingToDeclaration/app/myKotlinApp/-app-kt/main.html
+myKotlinApp
+
